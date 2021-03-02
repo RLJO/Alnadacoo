@@ -32,3 +32,8 @@
 	path = RLJO/ukka_app
 	url = git@github.com:RLJO/ukka_app.git
 	branch = 13-Production
+
+[submodule "RLJO/tis_ecommerce_whatsapp_checkout"]
+	path = RLJO/tis_ecommerce_whatsapp_checkout
+	url = git@github.com:RLJO/tis_ecommerce_whatsapp_checkout.git
+	branch = master
