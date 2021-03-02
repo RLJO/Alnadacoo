@@ -7,3 +7,8 @@
 	path = RLJO/odoo_theme
 	url = git@github.com:RLJO/odoo_theme.git
 	branch = 13.0
+
+[submodule "RL-OtherApps/whatsapp_odoo_pro"]
+	path = RL-OtherApps/whatsapp_odoo_pro
+	url = git@github.com:RL-OtherApps/whatsapp_odoo_pro.git
+	branch = 13.0
