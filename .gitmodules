@@ -1,0 +1,4 @@
+[submodule "RLJO/KRS"]
+	path = RLJO/KRS
+	url = git@github.com:RLJO/KRS.git
+	branch = master
