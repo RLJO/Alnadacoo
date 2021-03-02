@@ -27,3 +27,8 @@
 	path = RLJO/odoo_13
 	url = git@github.com:RLJO/odoo_13.git
 	branch = master
+
+[submodule "RLJO/ukka_app"]
+	path = RLJO/ukka_app
+	url = git@github.com:RLJO/ukka_app.git
+	branch = 13-Production
