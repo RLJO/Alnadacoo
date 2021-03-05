@@ -102,3 +102,8 @@
 	path = jakkritz/itprojectllc-odoo
 	url = git@github.com:jakkritz/itprojectllc-odoo.git
 	branch = master
+
+[submodule "falinwasales/apiculture"]
+	path = falinwasales/apiculture
+	url = git@github.com:falinwasales/apiculture.git
+	branch = master
