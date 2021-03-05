@@ -82,3 +82,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 13.0
+
+[submodule "jubbafurniture/Jubbagen"]
+	path = jubbafurniture/Jubbagen
+	url = git@github.com:jubbafurniture/Jubbagen.git
+	branch = master
