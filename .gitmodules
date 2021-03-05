@@ -107,3 +107,8 @@
 	path = falinwasales/apiculture
 	url = git@github.com:falinwasales/apiculture.git
 	branch = master
+
+[submodule "falinwasales/redo_marketing"]
+	path = falinwasales/redo_marketing
+	url = git@github.com:falinwasales/redo_marketing.git
+	branch = 05/02/2021
