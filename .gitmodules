@@ -97,3 +97,8 @@
 	path = rachmadona48/dn_api_13
 	url = git@github.com:rachmadona48/dn_api_13.git
 	branch = 13.0
+
+[submodule "jakkritz/itprojectllc-odoo"]
+	path = jakkritz/itprojectllc-odoo
+	url = git@github.com:jakkritz/itprojectllc-odoo.git
+	branch = master
