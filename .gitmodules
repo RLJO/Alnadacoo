@@ -112,3 +112,8 @@
 	path = falinwasales/redo_marketing
 	url = git@github.com:falinwasales/redo_marketing.git
 	branch = 05/02/2021
+
+[submodule "consultingerp/shared-custom-private"]
+	path = consultingerp/shared-custom-private
+	url = git@github.com:consultingerp/shared-custom-private.git
+	branch = 13.0
