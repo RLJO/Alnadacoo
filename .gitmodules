@@ -87,3 +87,8 @@
 	path = jubbafurniture/Jubbagen
 	url = git@github.com:jubbafurniture/Jubbagen.git
 	branch = master
+
+[submodule "itpp-labs/website-addons"]
+	path = itpp-labs/website-addons
+	url = git@github.com:itpp-labs/website-addons.git
+	branch = 13.0
