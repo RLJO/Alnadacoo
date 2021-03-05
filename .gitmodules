@@ -47,3 +47,8 @@
 	path = falinwasales/arista_project
 	url = git@github.com:falinwasales/arista_project.git
 	branch = production
+
+[submodule "RLJO/Alnadaco"]
+	path = RLJO/Alnadaco
+	url = git@github.com:RLJO/Alnadaco.git
+	branch = App
