@@ -52,3 +52,8 @@
 	path = RLJO/Alnadaco
 	url = git@github.com:RLJO/Alnadaco.git
 	branch = App
+
+[submodule "jakkritz/itprojectllc-odoo"]
+	path = jakkritz/itprojectllc-odoo
+	url = git@github.com:jakkritz/itprojectllc-odoo.git
+	branch = master
