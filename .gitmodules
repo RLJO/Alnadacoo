@@ -57,3 +57,8 @@
 	path = jakkritz/itprojectllc-odoo
 	url = git@github.com:jakkritz/itprojectllc-odoo.git
 	branch = master
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 13.0
