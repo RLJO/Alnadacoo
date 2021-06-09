@@ -1,0 +1,119 @@
+[submodule "RLJO/KRS"]
+	path = RLJO/KRS
+	url = git@github.com:RLJO/KRS.git
+	branch = master
+
+[submodule "RLJO/odoo_theme"]
+	path = RLJO/odoo_theme
+	url = git@github.com:RLJO/odoo_theme.git
+	branch = 13.0
+
+[submodule "RL-OtherApps/whatsapp_odoo_pro"]
+	path = RL-OtherApps/whatsapp_odoo_pro
+	url = git@github.com:RL-OtherApps/whatsapp_odoo_pro.git
+	branch = 13.0
+
+[submodule "RLJO/smartarget_odoo"]
+	path = RLJO/smartarget_odoo
+	url = git@github.com:RLJO/smartarget_odoo.git
+	branch = 13.0
+
+[submodule "RLJO/careone"]
+	path = RLJO/careone
+	url = git@github.com:RLJO/careone.git
+	branch = master
+
+[submodule "RLJO/odoo_13"]
+	path = RLJO/odoo_13
+	url = git@github.com:RLJO/odoo_13.git
+	branch = master
+
+[submodule "RLJO/ukka_app"]
+	path = RLJO/ukka_app
+	url = git@github.com:RLJO/ukka_app.git
+	branch = 13-Production
+
+[submodule "RLJO/tis_ecommerce_whatsapp_checkout"]
+	path = RLJO/tis_ecommerce_whatsapp_checkout
+	url = git@github.com:RLJO/tis_ecommerce_whatsapp_checkout.git
+	branch = master
+
+[submodule "RL-OtherApps/odoo-addons-2"]
+	path = RL-OtherApps/odoo-addons-2
+	url = git@github.com:RL-OtherApps/odoo-addons-2.git
+	branch = 13.0-dev
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 13.0
+
+[submodule "OCA/helpdesk"]
+	path = OCA/helpdesk
+	url = git@github.com:OCA/helpdesk.git
+	branch = 13.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 13.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 13.0
+
+[submodule "OCA/website"]
+	path = OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 8.0
+
+[submodule "OCA/product-variant"]
+	path = OCA/product-variant
+	url = git@github.com:OCA/product-variant.git
+	branch = 13.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 13.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 13.0
+
+[submodule "jubbafurniture/Jubbagen"]
+	path = jubbafurniture/Jubbagen
+	url = git@github.com:jubbafurniture/Jubbagen.git
+	branch = master
+
+[submodule "itpp-labs/website-addons"]
+	path = itpp-labs/website-addons
+	url = git@github.com:itpp-labs/website-addons.git
+	branch = 13.0
+
+[submodule "rachmadona48/dn_api_13"]
+	path = rachmadona48/dn_api_13
+	url = git@github.com:rachmadona48/dn_api_13.git
+	branch = 13.0
+
+[submodule "jakkritz/itprojectllc-odoo"]
+	path = jakkritz/itprojectllc-odoo
+	url = git@github.com:jakkritz/itprojectllc-odoo.git
+	branch = master
+
+[submodule "falinwasales/apiculture"]
+	path = falinwasales/apiculture
+	url = git@github.com:falinwasales/apiculture.git
+	branch = master
+
+[submodule "falinwasales/redo_marketing"]
+	path = falinwasales/redo_marketing
+	url = git@github.com:falinwasales/redo_marketing.git
+	branch = 05/02/2021
+
+[submodule "consultingerp/shared-custom-private"]
+	path = consultingerp/shared-custom-private
+	url = git@github.com:consultingerp/shared-custom-private.git
+	branch = 13.0
