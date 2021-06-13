@@ -72,3 +72,8 @@
 	path = RLJO/RagsonsKenyaLtdz
 	url = git@github.com:RLJO/RagsonsKenyaLtd.git
 	branch = main
+
+[submodule "RLJO/RagsonsKenyaLtdaa"]
+	path = RLJO/RagsonsKenyaLtdaa
+	url = git@github.com:RLJO/RagsonsKenyaLtd.git
+	branch = main
